@@ -1,4 +1,3 @@
-### Freshman Developer @ KISJ
 - 30597F "Freshies" Programmer
 - Developed several organizations' websites
 - Co-Founded UNIFYX, built Emote-me & Smart-Fit (in progress)
