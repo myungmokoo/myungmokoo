@@ -1,4 +1,3 @@
-## Myungmo Koo
 ### Freshman Developer @ KISJ
 - 30597F "Freshies" Programmer
 - Developed several organizations' websites
